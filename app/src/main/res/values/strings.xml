@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="new_account">New account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="by_proceeding_you_also_agree_to_the_terms_of_service_and_privacy_policy">By proceeding, you also agree to the Terms of Service and Privacy Policy</string>
+    <string name="next">Next</string>
+    <string name="capture">Capture</string>
+    <string name="password">password</string>
+    <string name="password2">Password</string>
+    <string name="favorite_restaurants">Favorite Restaurants</string>
+    <string name="all_restaurants">All Restaurants</string>
+    <string name="home">Home</string>
+    <string name="recent_orders">Recent Orders</string>
+    <string name="account">Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+    <string name="calender_view">Calender_View</string>
+
+</resources>

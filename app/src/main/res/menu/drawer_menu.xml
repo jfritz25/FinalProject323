@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"
+            app:actionLayout="@layout/menu_item_bold" />
+        <item
+            android:id="@+id/nav_recent_orders"
+            android:title="@string/recent_orders"
+            app:actionLayout="@layout/menu_item_bold" />
+        <item
+            android:id="@+id/nav_calendar_view"
+            android:title="@string/calender_view"
+            app:actionLayout="@layout/menu_item_regular" />
+    </group>
+
+    <item
+        android:id="@+id/nav_sign_out"
+        android:title=""
+        app:actionLayout="@layout/menu_item_button"/>
+</menu>

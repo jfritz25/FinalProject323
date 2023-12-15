@@ -1,0 +1,14 @@
+<Button
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:textColor="#FFFFFF"
+    android:textSize="14sp"
+    android:layout_gravity="center"
+    android:gravity="bottom"
+    android:text="@string/sign_out"
+    android:textAlignment="center"
+    android:clickable="true"
+    android:focusable="true"
+    tools:ignore="RtlCompat" />

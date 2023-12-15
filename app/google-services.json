@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493396124237",
+    "project_id": "finalproject323-e771b",
+    "storage_bucket": "finalproject323-e771b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493396124237:android:b60c7af8cc114aa5daf204",
+        "android_client_info": {
+          "package_name": "jam.fritz.finalproject323"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyeOvCJaJDPzwAH3BRLQC7zxnNq3DfqFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
