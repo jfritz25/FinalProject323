@@ -37,8 +37,11 @@ Implementation of the first 6 items in the rubric. Sign in Activity, Session Sav
 <br>
 **START** 
 <br>
-The first couple cases are when a new user of the system is shown
-* The user enters a name: Jacob Fritz, an email: jamfritz@iu.edu, a password: ilove323, and a picture which is taken with the [Capture] button after clicking on the defualt pfp the user selects [Next]. Displayed on the homescreen is all the restaurants and all of the users favorite restaurants. The user clicks the [hamburger] button to show the navigation drawer where again all the information is displayed and the items are clickable. The user selects [home] to return to the home screen. The [search] button in the toolbar is then selected and the user queries for Chipotle. The recycler view updates showing only chiptole. The user clicks out of the searchView by hitting the [x] and is returned a screen showing all of the restaurants and all of the favorited restaurants. 
+The first case is a user already in authentication
+* The user enters a name: Jacob Fritz, an email: jamfritz@iu.edu, a password: ilove323, and a picture which is taken with the [Capture] button after clicking on the defualt pfp the user selects [Next]. Displayed on the homescreen is all the restaurants and all of the users favorite restaurants. The user clicks the [hamburger] button to show the navigation drawer where again all the information is displayed and the items are clickable. The user selects [home] to return to the home screen. The [search] button in the toolbar is then selected and the user queries for Chipotle. The recycler view updates showing only chiptole. The user clicks out of the searchView by hitting the [x] and is returned a screen showing all of the restaurants and all of the favorited restaurants. [hamburger] is selected and the user selects [Log Out]
+
+Not in authentication
+* Only difference from above is the user is created in firebase and everything is uploaded. Also, the user has less favorite restaurants
  
 <br>
 
@@ -52,9 +55,9 @@ Here's a walkthrough of a few translations:
 **there was a slight adjustment to the buttons size that was implemented after the video was created and the changes do not alter the performance of the app -> however this changes clossly
 reflects the UI requested in the PDF**
 <br>
-<img src='https://github.com/asteitz/Project_6/blob/master/app/src/main/java/com/example/project6/RecordingNotesApp.gif' title='FinalProject Video Walkthrough' width='50%' height = '50%' alt='Video Walkthrough' />
+<img src='https://github.com/jfritz25/FinalProject323/blob/master/app/AppDemo.gif' title='FinalProject Video Walkthrough' width='50%' height = '50%' alt='Video Walkthrough' />
 
-GIF created with [CloudConvert](https://cloudconvert.com/).
+
 
 ## Notes
 UI Challenges:
